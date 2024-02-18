@@ -1,0 +1,19 @@
+.footer {
+  border-top: 1px solid hsl(180, 95%, 22%);
+  padding: 20px;
+  font-size: small;
+  text-align: center;
+}
+
+.footer__link {
+  text-decoration: none;
+  color: black;
+}
+
+.footer__link:hover {
+  color: teal;
+}
+
+.footer__link:active {
+  color: rgb(8, 185, 185);
+}
