@@ -7,3 +7,7 @@ html {
 ::before {
   box-sizing: inherit;
 }
+
+body {
+  background: center / cover fixed no-repeat url("../images/background.png");
+}
