@@ -1,5 +1,4 @@
 .form__label {
-  display: inline-block;
   margin-right: 5px;
   width: 100%;
   max-width: 150px;
@@ -8,13 +7,14 @@
 .form__field {
   padding: 5px;
   width: 100%;
-  max-width: 270px;
   border: 1px solid rgb(2, 161, 161);
   border-radius: 7px;
+  display: flex;
+  flex-basis: 350px;
+  justify-content: center;
 }
 
 .form__fildset {
-  margin: 30 0;
   padding: 15px;
   border: 1px solid rgb(2, 161, 161);
   border-radius: 7px;
