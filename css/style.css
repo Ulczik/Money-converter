@@ -8,6 +8,6 @@ html {
   box-sizing: inherit;
 }
 
-body {
-  background: center / cover fixed no-repeat url("../images/background.png");
+.body {
+  background: center / cover no-repeat fixed url("../images/background.jpg");
 }
