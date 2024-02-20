@@ -1,8 +1,10 @@
 .footer {
   border-top: 1px solid hsl(180, 95%, 22%);
-  padding: 20px;
+  padding: 10px;
   font-size: small;
   text-align: center;
+  background-color: whitesmoke;
+  border-radius: 7%;
 }
 
 .footer__link {
