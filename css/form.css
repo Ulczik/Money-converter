@@ -12,12 +12,14 @@
   display: flex;
   flex-basis: 350px;
   justify-content: center;
+  background-color: whitesmoke;
 }
 
 .form__fildset {
   padding: 15px;
   border: 1px solid rgb(2, 161, 161);
   border-radius: 7px;
+  background-color: whitesmoke;
 }
 
 .form__legend {
