@@ -1,6 +1,11 @@
 .container {
   margin: 20px auto;
-  max-width: 500px;
+  max-width: 650px;
   min-height: 100vh;
   font-family: "Raleway", sans-serif;
+  display: flex;
+  flex-basis: 500px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
