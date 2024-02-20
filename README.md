@@ -1,6 +1,6 @@
 # Currency conventer
 
-This repository present simple currency cnverter, that was created as a  project based on the YouCode - Frontend Developer Course.
+This repository present simple currency converter, that was created as a project based on the YouCode - Frontend Developer Course.
 
 
 # Demo
@@ -16,10 +16,10 @@ Here you can convert PLN to following currency:
 
 - USD
 - EUR 
--  GBP
+- GBP
 
 
-## Ues languages / methods
+## Used languages / methods
 
 -   _HTML5_
 -   _CSS3_
